@@ -10,7 +10,7 @@ Apriori Requires a priori knowledge to generate the frequent itemsets and involv
 time-consuming pruning steps to exclude the infrequent candidates and hold frequents. The
 first pruning operation is degenerating each of the (k+1)-itemsets to its k-itemset subsets.
 
-    The second pruning operation is to support counting for each candidate passed the first exam.
+   The second pruning operation is to support counting for each candidate passed the first exam.
 In this project, we applied a data mining algorithm, Apriori, to mine a relationship
 among films and build a movie recommendation engine. We used this technique to discover
 items that are frequently watched together. Frequently watched movies itemset suggests
